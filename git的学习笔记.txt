@@ -1,0 +1,19 @@
+1.回到以前版本
+	git reset --hard 版本的哈希值
+2.查看git提交的版本列表：
+	git reflog
+3.查看提交详细日志
+	git log
+4.添加文件到暂存区
+	git add 文件名
+5.提交文件
+	git commit 文件名
+6.显示文件的冲突
+	git diff 文件名
+7.本地同步打github服务器
+	sync图标
+	
+8.合并分支
+	1.本地的合并
+	2.用github的合并功能，这种适合开源软件的合并
+	
